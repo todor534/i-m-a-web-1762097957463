@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "EShttps://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png6https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png72https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png602-img-4.png6https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png68https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png819-img-3.pnghttps://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png68https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png819-img-3.png0-img-2.png0https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png6https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png72https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png602-img-4.png6https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png68https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png819-img-3.pnghttps://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png68https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png819-img-3.png0-img-2.png0",
+    "lib": [
+      "EShttps://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png6https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png72https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png602-img-4.png6https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png68https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png819-img-3.pnghttps://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png68https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png819-img-3.png0-img-2.png0https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png6https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png72https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png602-img-4.png6https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png68https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png819-img-3.pnghttps://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/176209https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png68https://jg7nnjuy9jonydmm.public.blob.vercel-storage.com/ai/1762095763861-img-5.png819-img-3.png0-img-2.png0",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "jsx": "react-jsx",
+    "strict": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "useDefineForClassFields": true,
+    "verbatimModuleSyntax": true,
+    "skipLibCheck": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "types": [
+      "vite/client",
+      "node"
+    ]
+  },
+  "include": [
+    "src",
+    "server",
+    "api",
+    "vite.config.ts"
+  ]
+}
